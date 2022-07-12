@@ -23,3 +23,5 @@ Results:
 Summary: In general the 9th grade change, it's significatly affected the analysis especialy when we see the performance ranking of the school, so it moved to the top 5 schools in the list.
 
 ![](https://github.com/sedigh-etoumi/School_District_Analysis/blob/main/per_school_summary.png)
+
+![](https://github.com/sedigh-etoumi/School_District_Analysis/blob/main/top_schools.png)
