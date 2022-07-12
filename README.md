@@ -13,8 +13,8 @@ Results:
         ![](https://github.com/sedigh-etoumi/School_District_Analysis/blob/main/per_school_summary.png)
 
         Replacing the ninth graders math and reading scores affect Thomas High School’s performance relative to the other schools
-        when we see the top 5 schools before we de change, so The Thomas High School is not one of them, but after the change has made we found 
-        Thomas High School in the second position in the top 5 list.
+        when we see the top 5 schools before we de change, so The Thomas High School is not one of them, but after the change 
+        has made we found Thomas High School in the second position in the top 5 list.
         
         
         
