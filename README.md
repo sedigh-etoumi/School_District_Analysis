@@ -7,7 +7,8 @@ Results:
     After we replaced 9th grade of Thomas High School for math and reading scores with NaNs Acording to the school board request which is significatly affected the         analysis by changing the total number of students in that school has reduced by the number of 9th grade students (461).
         The district summary affected: yes after the change has made the analysis just affected a little bit because when you compare the numbers of student before             39,170 and after 38,709.
         The school summary affected: the significt chanage when we see the dataframe is in the Thomas High School row which is the 
-        overall percentage from 65% to 90%. Replacing the ninth graders math and reading scores affect Thomas High School’s performance relative to the other schools
+        overall percentage from 65% to 90%. 
+        Replacing the ninth graders math and reading scores affect Thomas High School’s performance relative to the other schools
         when we see the top 5 schools before we de change, so The Thomas High School is not one of them, but after the change 
         has made we found Thomas High School in the second position in the top 5 list. 
         
