@@ -8,6 +8,12 @@ Results:
         The district summary affected: yes after the change has made the analysis just affected a little bit because when you compare the numbers of student before               39,170 and after 38,709.
         ![](https://github.com/sedigh-etoumi/School_District_Analysis/blob/main/Distict_Summary.png)
         
+        The school summary affected: the significt chanage when we see the dataframe is in the Thomas High School row which is the overall percentage from 65% to 90%.
+        ![](https://github.com/sedigh-etoumi/School_District_Analysis/blob/main/per_school_summary.png)
+
+        Replacing the ninth graders math and reading scores affect Thomas High School’s performance relative to the other schools when we see the top 5 schools before we 
+        made change, so The Thomas High School is not one of them, but after the change has made we found Thomas High School in the second position in the top 5 list.
+        
         
         
 
