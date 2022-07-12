@@ -13,6 +13,14 @@ Results:
         
         
 
+
+
+        The school summary affected: the significt chanage when we see the dataframe is in the Thomas High School row which is the 
+        overall percentage from 65% to 90%.
+        
+        Replacing the ninth graders math and reading scores affect Thomas High School’s performance relative to the other schools
+        when we see the top 5 schools before we de change, so The Thomas High School is not one of them, but after the change 
+        has made we found Thomas High School in the second position in the top 5 list.
 Summary: In general the 9th grade change, it's significatly affected the analysis especialy when we see the performance ranking of the school, so it moved to the top 5 schools in the list.
 
 ![](https://github.com/sedigh-etoumi/School_District_Analysis/blob/main/per_school_summary.png)
